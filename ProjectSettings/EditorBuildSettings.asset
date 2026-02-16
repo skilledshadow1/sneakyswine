@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 742eb5fee569d9540a9164216351d56d
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 181fd6911eb7244cb91c2cd29028b62f
+  - enabled: 1
+    path: Assets/Scenes/EndTimeOutScreen.unity
+    guid: 7b54a204199c28944a773ccfee569282
+  - enabled: 1
+    path: Assets/Scenes/EndWinScreen.unity
+    guid: 3a2ed50e39830436f889bc7c7f9e55d8
+  - enabled: 1
+    path: Assets/Scenes/EndCatchScreen.unity
+    guid: c371ce7a366704a5ba9d2b71a5102d01
+  m_configObjects: {}
